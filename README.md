@@ -70,8 +70,7 @@ This repo will also include:
 ## 📫 Contact Me
 
 - GitHub: [@charitythehacker](https://github.com/charitythehacker)
-- LinkedIn: *(Insert your link if you have one)*
-- Personal blog/writeups: *(Optional)*
+- LinkedIn: Jace Yarborough
 
 ---
 
