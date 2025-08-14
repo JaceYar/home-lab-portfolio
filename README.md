@@ -69,7 +69,7 @@ This repo will also include:
 
 ## 📫 Contact Me
 
-- GitHub: [@charitythehacker](https://github.com/charitythehacker)
+- GitHub: [@JaceYar
 - LinkedIn: Jace Yarborough
 
 ---
